@@ -11,3 +11,5 @@ First of all try to develop this on your own by following the [tutorial](https:/
 
 4. Clone this repo and copy its files inside Pawn.activity.
 5. Run comand : npm start
+
+[Video Link](https://drive.google.com/file/d/1GGp5BZSTKCMD4fiGp9Ro8vQf9EMFkU5H/view?usp=sharing) 
