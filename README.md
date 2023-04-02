@@ -1,1 +1,2 @@
-# VueJs_Pawn_Activity
+# Pawn-Activity-Vue.js
+Pawn Activity for Sugarizer using VusJs
